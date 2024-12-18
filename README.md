@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Piedra, Papel o Tijera</title>
 </head>
 <body>
     <h1 style="color: blue; text-align: center;">Juego de Piedra, Papel o Tijera</h1>
