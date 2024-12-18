@@ -79,9 +79,6 @@
     <li>Abre un pull request para que revisemos tus cambios.</li>
 </ol>
 
-<h2>Licencia</h2>
-
-<p>Este proyecto está bajo la Licencia MIT - ver el archivo <a href="LICENSE">LICENSE</a> para más detalles.</p>
 
 </body>
 </html>
