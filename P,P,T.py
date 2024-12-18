@@ -1,4 +1,4 @@
-import random  # Importamos el módulo random para que la computadora elija aleatoriamente
+import random  # Importamos el módulo random para generar elecciones aleatorias de la computadora
 
 # Opciones del juego
 opciones = ["piedra", "papel", "tijera"]
@@ -39,7 +39,7 @@ def jugador_gana(jugador, computadora):
 def jugar():
     """
     Ejecución principal del juego de Piedra, Papel o Tijera.
-    Incluye un bucle para manejar empates y determina si el jugador gana o pierde.
+    Incluye un bucle para manejar empates y determinar si el jugador desea volver a jugar.
     """
     print("¡Bienvenido a Piedra, Papel o Tijera!")
 
@@ -61,8 +61,12 @@ def jugar():
             print("¡Ganaste!")
         else:
             print("Perdiste. ¡Mejor suerte la próxima vez!")
-        
-        break  # Sale del bucle si no hay empate
+
+        # Preguntar al jugador si desea volver a jugar
+        jugar_otra_vez = input("¿Quieres jugar otra vez? (sí/no): ").lower()
+        if jugar_otra_vez != "sí":
+            print("Gracias por jugar. ¡Hasta la próxima!")
+            break  # Sale del bucle si el jugador no desea continuar
 
 # Llamar al juego
 jugar()
