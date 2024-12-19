@@ -33,6 +33,6 @@ Un juego clásico implementado en Python que permite jugar contra la computadora
 
 🔗 Diagrama de flujo
 
-Consulta el diagrama de flujo que describe la lógica del juego en este [enlace](./Diagrama de Flujo.pdf).
+Consulta el diagrama de flujo que describe la lógica del juego en este [enlace](./diagrama.pdf).
 
 
