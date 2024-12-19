@@ -65,7 +65,7 @@
     <li>Se pregunta si el jugador quiere jugar nuevamente.</li>
 </ul>
 
-<p>Puedes ver el diagrama de flujo completo de este juego <a href="Piedra_Papel_Tijera.pdf">aquí</a> (enlace al archivo).</p>
+<p>Puedes ver el diagrama de flujo completo de este juego <a href="Diagrama_de_Flujo.pdf">aquí</a> (enlace al archivo).</p>
 
 <h2>Contribuciones</h2>
 
