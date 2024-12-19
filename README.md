@@ -30,3 +30,9 @@ Un juego clásico implementado en Python que permite jugar contra la computadora
    ```bash
    git clone https://github.com/tu-usuario/piedra-papel-tijera.git
    cd piedra-papel-tijera
+
+🔗 Diagrama de flujo
+
+Consulta el diagrama de flujo que describe la lógica del juego en este [enlace](./diagrama.png).
+
+
