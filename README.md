@@ -28,8 +28,8 @@ Un juego clásico implementado en Python que permite jugar contra la computadora
 
 1. Clona este repositorio en tu computadora:
    ```bash
-   git clone P,P,T.py
-      cd piedra-papel-tijera
+   git clone https://github.com/CristronEC/Portafolio/blob/main/P%2CP%2CT.py     
+cd piedra-papel-tijera
 
 🔗 Diagrama de flujo
 
